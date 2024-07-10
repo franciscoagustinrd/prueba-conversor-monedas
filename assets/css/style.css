@@ -14,8 +14,9 @@ body{
 h1{
 	font-weight: 500;
   font-style: normal;
-	border-bottom: 1.5px solid #8e8e8e;
-	border-top: 1.5px solid #8e8e8e;
+	border-bottom: 1.5px solid #1C4E5A;
+	border-top: 1.5px solid #1C4E5A;
+	margin-top: 14px;
 	padding-bottom:20px;
 	padding-top:20px;
 }
@@ -32,7 +33,7 @@ main{
 	align-items: center;
 	background-color: #6C757D;
 	padding: 20px 30px 20px 30px;
-	margin-top: 15px;
+	margin-top: 17px;
 	border-radius: 4px;
 	width:270px;
 }
