@@ -5,7 +5,7 @@ const handleClick = async () => {
     const money = document.querySelector("#money");
 
     if (!select.value || !money.value) {
-        alert("Por favor, completa todos los campos antes de continuar");
+        alert("Por favor, complete todos los campos antes de continuar");
         return;
     }
 
